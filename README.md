@@ -9,5 +9,8 @@ I was given a datasets that I cannot share. It includes basic trading informatio
 # Installation
 Install the following packages: numpy, pandas, matplotlib, jupyter, pytorch, random, time
 
+# Notebook
+Please see the jupyter notebook which describes how I build the trading bot
+
 # Run the trading-bot
 To run the trading bot, import trading_bot from trading_bot.py and run it with the required input.
